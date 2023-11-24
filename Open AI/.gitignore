@@ -1,0 +1,7 @@
+__pycache__
+.idea
+.pytest_cache
+build/
+dist
+openai_streaming.egg-info/
+.benchmarks
